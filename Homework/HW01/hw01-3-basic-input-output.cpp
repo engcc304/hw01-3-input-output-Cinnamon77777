@@ -19,9 +19,9 @@ int main(){
     char Lname[50];
     printf("Enter your First Name: ");
     scanf("%s",Fname);
-    printf("Enter your Last Name");
+    printf("Enter your Last Name: ");
     scanf("%s",Lname);
-    printf("%s %ss TC,RMUTL,Chiang Mai,Thailand",Fname,Lname);
+    printf("%s %ss TC, RMUTL, Chiang Mai, Thailand", Fname, Lname);
     return 0 ;
 }
 
